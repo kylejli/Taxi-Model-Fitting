@@ -1,4 +1,4 @@
-# Taxi-Model-Fitting
+# Taxi Model Fitting
 ECS 132 Term Project
 
 Worked as a group to explore the large Taxi dataset:\
